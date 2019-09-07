@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[0]">
+            </PersistentString>
+            <PersistentString
+               value = "grid[i-1][j+1]&#10;    grid[i][j]=0;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "showWorld:life.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "populateWorld:life.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "tGrid[1]">
+            </PersistentString>
+            <PersistentString
+               value = "grid[1]">
+            </PersistentString>
+            <PersistentString
+               value = "*numRows">
+            </PersistentString>
+            <PersistentString
+               value = "buf">
+            </PersistentString>
+            <PersistentString
+               value = "tGrid[0]">
+            </PersistentString>
+            <PersistentString
+               value = "grid">
+            </PersistentString>
+            <PersistentString
+               value = "grid[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
