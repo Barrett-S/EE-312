@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/barrett/Xcode Projects/GoFish-master/card.cpp
+card.h
+/Users/barrett/Xcode Projects/GoFish-master/card.h
+
+/Users/barrett/Xcode Projects/GoFish-master/card.h
+ctime
+-
+iostream
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/barrett/Xcode Projects/GoFish-master/deck.cpp
+deck.h
+/Users/barrett/Xcode Projects/GoFish-master/deck.h
+
+/Users/barrett/Xcode Projects/GoFish-master/deck.h
+card.h
+/Users/barrett/Xcode Projects/GoFish-master/card.h
+
+/Users/barrett/Xcode Projects/GoFish-master/go_fish.cpp
+iostream
+-
+card.h
+/Users/barrett/Xcode Projects/GoFish-master/card.h
+player.h
+/Users/barrett/Xcode Projects/GoFish-master/player.h
+deck.h
+/Users/barrett/Xcode Projects/GoFish-master/deck.h
+
+/Users/barrett/Xcode Projects/GoFish-master/player.cpp
+player.h
+/Users/barrett/Xcode Projects/GoFish-master/player.h
+
+/Users/barrett/Xcode Projects/GoFish-master/player.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+card.h
+/Users/barrett/Xcode Projects/GoFish-master/card.h
+
