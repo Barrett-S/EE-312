@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/barrett/Xcode Projects/BST/BST312.h
+cstdlib
+-
+iostream
+-
+vector
+-
+
+/Users/barrett/Xcode Projects/BST/main.cpp
+iostream
+-
+fstream
+-
+BST312.h
+/Users/barrett/Xcode Projects/BST/BST312.h
+
